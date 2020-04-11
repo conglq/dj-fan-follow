@@ -1,0 +1,23 @@
+{
+  "name": "dj-fan-follow",
+  "version": "1.0.0",
+  "description": "DJ/FAN Follow Spoon CODING TEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "Le Quang Cong <leqcong@gmail.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "express": "^4.17.1",
+    "ioredis": "^4.16.1",
+    "morgan": "^1.10.0",
+    "ramda": "^0.27.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "supertest": "^4.0.2"
+  }
+}
