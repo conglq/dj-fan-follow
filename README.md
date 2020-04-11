@@ -32,3 +32,9 @@ npm start
 ```sh
 npm test
 ```
+
+## Document
+
+API Document is index.html in ./apidoc
+
+DB schema is in DB Design.drawio
