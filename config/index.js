@@ -4,6 +4,6 @@ module.exports = {
   },
   redisUrl: process.env.REDIS_URL || 'redis://127.0.0.1:6379/3',
   index: {
-    maxFanIndex: 1
+    maxFanIndex: 100
   }
 }

@@ -4,7 +4,8 @@
   "description": "DJ/FAN Follow Spoon CODING TEST",
   "main": "index.js",
   "scripts": {
-    "test": "mocha tests"
+    "start": "node index.js",
+    "test": "./node_modules/.bin/mocha tests"
   },
   "author": "Le Quang Cong <leqcong@gmail.com>",
   "license": "UNLICENSED",
